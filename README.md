@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An app that sends a welcome message when users make their first commit in GitHub on a project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It sends a welcome message to new users in GitHub after they make their first commit in a GitHub project that they choose
 
 ## Getting started
 
